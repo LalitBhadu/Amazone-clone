@@ -1,0 +1,10 @@
+.homepage{
+width: 100vw;
+}
+
+.banner{
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1), rgba(0,0,0,0));
+}
